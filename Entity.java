@@ -1,5 +1,5 @@
 package edu.calstatela.cs203.ignaciozuniga.homework1;
-//test
+//test 2
 import java.awt.Color;
 import java.awt.Graphics;
 
