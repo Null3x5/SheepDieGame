@@ -10,7 +10,7 @@ public class Wolf extends Entity {
 	private boolean wolfPositionIveBeen[][] = new boolean[11][11];
 	private boolean tracking = true;
 	private boolean grassEffect = false;
-
+//sdfasdfasdfasdf
 	public Wolf(int x, int y, Color c) {
 		super(x, y, c);
 		for (int i = 0; i < 11; i++) {
